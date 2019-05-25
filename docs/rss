@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[深山老猿的读书笔记]]></title>
+        <description><![CDATA[读书笔记,学习心得]]></description>
+        <link>https://readingnotes.shenshanlaoyuan.com/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 25 May 2019 07:53:54 GMT</lastBuildDate>
+        <atom:link href="https://readingnotes.shenshanlaoyuan.com/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[深山老猿]]></author>
+        <managingEditor><![CDATA[me@shenshanlaoyuan.com]]></managingEditor>
+        <webMaster><![CDATA[me@shenshanlaoyuan.com]]></webMaster>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[基础篇]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/基础篇/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/基础篇/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[面向对象]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/基础篇/面向对象/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/基础篇/面向对象/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[什么是面向对象]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/基础篇/面向对象/什么是面向对象.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/基础篇/面向对象/什么是面向对象.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[平台无关性]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/基础篇/面向对象/平台无关性.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/基础篇/面向对象/平台无关性.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[基础知识]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/基础篇/基础知识/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/基础篇/基础知识/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[底层篇]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/底层篇/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/底层篇/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[进阶篇]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/进阶篇/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/进阶篇/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[高级篇]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/高级篇/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/高级篇/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[架构篇]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/架构篇/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/架构篇/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[扩展篇]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/扩展篇/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/扩展篇/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[推荐书籍]]></title>
+            <link>https://readingnotes.shenshanlaoyuan.com/推荐书籍/README.html</link>
+            <guid isPermaLink="true">https://readingnotes.shenshanlaoyuan.com/推荐书籍/README.html</guid>
+            <dc:creator><![CDATA[深山老猿]]></dc:creator>
+        </item>
+    </channel>
+</rss>
