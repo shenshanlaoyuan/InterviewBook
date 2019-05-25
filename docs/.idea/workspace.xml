@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="" />
+    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.idea/InterviewBook.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.idea/dictionaries/shenshanlaoyuan.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-baidu/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-disqus/plugin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-disqus/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-donate/plugin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-donate/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-emphasize/plugin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-fontsettings/website.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-github/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-rss/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-search-plus/jquery.mark.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-search-plus/search.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-search-plus/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-sharing/buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-splitter/splitter.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-splitter/splitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-tbfed-pagefooter/footer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-toggle-chapters/toggle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook-plugin-toggle-chapters/toggle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/gitbook.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/images/apple-touch-icon-precomposed-152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/rss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/search_plus_index.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/基础篇/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/基础篇/面向对象/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/基础篇/面向对象/什么是面向对象.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/基础篇/面向对象/平台无关性.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/底层篇/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/扩展篇/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/推荐书籍/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/架构篇/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/进阶篇/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/高级篇/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book.json" afterPath="$PROJECT_DIR$/book.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,7 +104,20 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterviewBook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="InterviewBook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -134,7 +202,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558336723143</updated>
       <workItem from="1558336724352" duration="642000" />
-      <workItem from="1558768612098" duration="243000" />
+      <workItem from="1558768612098" duration="789000" />
     </task>
     <task id="LOCAL-00001" summary="初始提交">
       <created>1558337038590</created>
@@ -150,16 +218,24 @@
       <option name="project" value="LOCAL" />
       <updated>1558768650622</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加doc目录">
+      <created>1558771123860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558771123860</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="885000" />
+    <option name="totallyTimeSpent" value="1431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -187,7 +263,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始提交" />
     <MESSAGE value="安装插件" />
-    <option name="LAST_COMMIT_MESSAGE" value="安装插件" />
+    <MESSAGE value="添加doc目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加doc目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

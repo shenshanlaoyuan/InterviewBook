@@ -1,7 +1,7 @@
 ﻿{
    
-   "title" : "ReadingNotes",
-    "description" : "读书笔记,学习心得",
+   "title" : "Java面试宝典",
+    "description" : "",
     "author" : "深山老猿",
     "language" : "zh-hans",
 	"links" : {
@@ -20,14 +20,14 @@
         "baidu","simple-page-toc",
         "-highlight",
         "emphasize","expandable-chapters-small",
-      "donate","rss","disqus"
+      "donate","disqus"
 
     ],
 
     "pluginsConfig": {
         
        "github": {
-        	"url": "https://github.com/shenshanlaoyuan/ReadingNotes"
+        	"url": "https://github.com/shenshanlaoyuan/InterviewBook"
     	},
     	"tbfed-pagefooter": {
             "copyright":"Copyright &copy 深山老猿 ",
@@ -50,24 +50,12 @@
         "token": "49a4c174aa8d0ae9013634317dab9a4d"
         },
         "donate": {
-          "wechat": "http://7xs5l8.com1.z0.glb.clouddn.com/%E5%BE%AE1.png",
-          "alipay": "http://7xs5l8.com1.z0.glb.clouddn.com/%E6%94%AF.png",
+          "wechat": "https://i.loli.net/2018/12/14/5c13d3658736f.jpeg",
+          "alipay": "https://i.loli.net/2018/12/15/5c13d9a7e9a14.jpeg",
           "title": "",
           "button": "赏",
           "alipayText": "支付宝打赏",
           "wechatText": "微信打赏"
-        },
-        "rss": {
-          "title": "深山老猿的读书笔记",
-          "description": "读书笔记,学习心得",
-          "author": "深山老猿",
-          "feed_url": "https://readingnotes.shenshanlaoyuan.com/rss",
-          "site_url": "https://readingnotes.shenshanlaoyuan.com/",
-          "managingEditor": "me@shenshanlaoyuan.com",
-          "webMaster": "me@shenshanlaoyuan.com",
-          "categories": [
-            "gitbook"
-          ]
         },
         "simple-page-toc": {
           "maxDepth": 3,
