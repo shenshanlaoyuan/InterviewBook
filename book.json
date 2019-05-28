@@ -20,7 +20,7 @@
         "baidu","simple-page-toc",
         "-highlight",
         "emphasize","expandable-chapters-small",
-      "donate","disqus"
+      "donate"
 
     ],
 
@@ -60,9 +60,6 @@
         "simple-page-toc": {
           "maxDepth": 3,
           "skipFirstH1": true
-        },
-        "disqus": {
-          "shortName": "readingnotes-1"
         }
     }
 }
