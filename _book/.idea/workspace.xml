@@ -190,7 +190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558336723143</updated>
       <workItem from="1558336724352" duration="642000" />
-      <workItem from="1558768612098" duration="3581000" />
+      <workItem from="1558768612098" duration="4565000" />
     </task>
     <task id="LOCAL-00001" summary="初始提交">
       <created>1558337038590</created>
@@ -283,11 +283,32 @@
       <option name="project" value="LOCAL" />
       <updated>1559013268651</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="修改readme添加目录">
+      <created>1559038245236</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1559038245236</updated>
+    </task>
+    <task id="LOCAL-00015" summary="修改readme添加目录">
+      <created>1559098656085</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1559098656086</updated>
+    </task>
+    <task id="LOCAL-00016" summary="修改readme添加目录">
+      <created>1559099454005</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1559099454005</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4223000" />
+    <option name="totallyTimeSpent" value="5207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -325,7 +346,8 @@
     <MESSAGE value="修改插件" />
     <MESSAGE value="修改评论插件" />
     <MESSAGE value="修改readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改readme" />
+    <MESSAGE value="修改readme添加目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改readme添加目录" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
