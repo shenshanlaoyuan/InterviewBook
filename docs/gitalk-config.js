@@ -1,7 +1,7 @@
 /**
  * Created by shenshanlaoyuan on 2019/5/25.
  */
- <script src="http://shenshanlaoyuan.com/InterviewBook/md5.min.js"></script>
+ 
 
 var gitalk = new Gitalk({
     "clientID": "941df607ad0d8a39b204",
