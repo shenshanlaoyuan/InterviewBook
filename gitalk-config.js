@@ -7,7 +7,7 @@ var gitalk = new Gitalk({
     "repo": "InterviewBook",
     "owner": "shenshanlaoyuan",
     "admin": ["shenshanlaoyuan"],
-    "id": location.pathname,
+    "id": decodeURI(location.pathname),
     "distractionFreeMode": false
 });
 gitalk.render("gitalk-container");
