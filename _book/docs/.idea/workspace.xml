@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -192,7 +190,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558336723143</updated>
       <workItem from="1558336724352" duration="642000" />
-      <workItem from="1558768612098" duration="4129000" />
+      <workItem from="1558768612098" duration="4877000" />
     </task>
     <task id="LOCAL-00001" summary="初始提交">
       <created>1558337038590</created>
@@ -299,11 +297,32 @@
       <option name="project" value="LOCAL" />
       <updated>1559098656086</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="修改readme添加目录">
+      <created>1559099454005</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1559099454005</updated>
+    </task>
+    <task id="LOCAL-00017" summary="修改readme添加目录">
+      <created>1559100994584</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1559100994584</updated>
+    </task>
+    <task id="LOCAL-00018" summary="修改readme添加目录">
+      <created>1559101490317</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1559101490317</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4771000" />
+    <option name="totallyTimeSpent" value="5519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
