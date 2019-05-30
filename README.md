@@ -2,29 +2,29 @@
 
 ## 目录
 
-## [1.基础篇](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/>)
+## [1.基础篇](基础篇/README.md)
 
-### [1.1.面向对象](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/>)
+### [1.1.面向对象](基础篇/面向对象/README.md)
 
-#### [1.1.1.什么是面向对象](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E4%BB%80%E4%B9%88%E6%98%AF%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.html>)
+#### [1.1.1.什么是面向对象](基础篇/面向对象/什么是面向对象.md)
 
 面向对象、面向过程
 
 面向对象的三大基本特征和五大基本原则
 
-#### [1.1.2.平台无关性](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E5%B9%B3%E5%8F%B0%E6%97%A0%E5%85%B3%E6%80%A7.html>)
+#### [1.1.2.平台无关性](基础篇/面向对象/平台无关性.md)
 
 Java 如何实现的平台无关
 
 JVM 还支持哪些语言（Kotlin、Groovy、JRuby、Jython、Scala）
 
-#### [1.1.3.值传递](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E5%80%BC%E4%BC%A0%E9%80%92.html>)
+#### [1.1.3.值传递](基础篇/面向对象/值传递.md)
 
 值传递、引用传递
 
 为什么说 Java 中只有值传递
 
-#### [1.1.4.封装、继承、多态](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/%E5%B0%81%E8%A3%85%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81.html>)
+#### [1.1.4.封装、继承、多态](基础篇/面向对象/封装继承多态.md)
 
 什么是多态、方法重写与重载
 
@@ -36,9 +36,9 @@ Java 的继承与实现
 
 成员变量和方法作用域
 
-### [1.2.Java基础知识](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/>)
+### [1.2.Java基础知识](基础篇/基础知识/README.md)
 
-#### [1.2.1.基本数据类型](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.html>)
+#### [1.2.1.基本数据类型](基础篇/基础知识/基本数据类型.md)
 
 8 种基本数据类型：整型、浮点型、布尔型、字符型
 
@@ -46,13 +46,13 @@ Java 的继承与实现
 
 什么是浮点型？什么是单精度和双精度？为什么不能用浮点型表示金额？
 
-#### [1.2.2. 自动拆装箱](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E8%87%AA%E5%8A%A8%E6%8B%86%E8%A3%85%E7%AE%B1.html>)
+#### [1.2.2. 自动拆装箱](基础篇/基础知识/自动拆装箱.md)
 
 什么是包装类型、什么是基本类型、什么是自动拆装箱
 
 Integer 的缓存机制
 
-#### [1.2.3.String](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/String.html>)
+#### [1.2.3.String](基础篇/基础知识/String.md)
 
 字符串的不可变性
 
@@ -68,11 +68,11 @@ switch 对 String 的支持
 
 字符串池、常量池（运行时常量池、Class 常量池）、intern
 
-#### [1.2.4.熟悉 Java 中各种关键字](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%86%9F%E6%82%89Java%E4%B8%AD%E5%90%84%E7%A7%8D%E5%85%B3%E9%94%AE%E5%AD%97.html>)
+#### [1.2.4.熟悉 Java 中各种关键字](基础篇/基础知识/熟悉Java中各种关键字.md)
 
 transient、instanceof、final、static、volatile、synchronized、const 原理及用法
 
-#### [1.2.5.集合类](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E9%9B%86%E5%90%88%E7%B1%BB.html>)
+#### [1.2.5.集合类](基础篇/基础知识/集合类.md)
 
 常用集合类的使用、ArrayList 和 LinkedList 和 Vector 的区别 、SynchronizedList 和 Vector 的区别、HashMap、HashTable、ConcurrentHashMap 区别、
 
@@ -90,7 +90,7 @@ fail-fast 和 fail-safe
 
 CopyOnWriteArrayList、ConcurrentSkipListMap
 
-#### [1.2.6.枚举](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E6%9E%9A%E4%B8%BE.html>)
+#### [1.2.6.枚举](基础篇/基础知识/枚举.md)
 
 枚举的用法、枚举的实现、枚举与单例、Enum 类
 
@@ -102,7 +102,7 @@ switch 对枚举的支持
 
 枚举的线程安全性问题
 
-#### [1.2.7.IO](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/IO.html>)
+#### [1.2.7.IO](基础篇/基础知识/IO.md)
 
 字符流、字节流、输入流、输出流、
 
@@ -110,13 +110,13 @@ switch 对枚举的支持
 
 BIO、NIO 和 AIO 的区别、三种 IO 的用法与原理、netty
 
-#### [1.2.8.反射](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8F%8D%E5%B0%84.html>)
+#### [1.2.8.反射](基础篇/基础知识/反射.md)
 
 反射与工厂模式、反射有什么用
 
 Class 类、java.lang.reflect.*
 
-#### [1.2.9.动态代理](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86.html>)
+#### [1.2.9.动态代理](基础篇/基础知识/动态代理.md)
 
 静态代理、动态代理
 
@@ -126,25 +126,25 @@ Class 类、java.lang.reflect.*
 
 AOP
 
-#### [1.2.10.序列化](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%BA%8F%E5%88%97%E5%8C%96.html>)
+#### [1.2.10.序列化](基础篇/基础知识/序列化.md)
 
 什么是序列化与反序列化、为什么序列化、序列化底层原理、序列化与单例模式、protobuf、为什么说序列化并不安全
 
-#### [1.2.11.注解](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E6%B3%A8%E8%A7%A3.html>)
+#### [1.2.11.注解](基础篇/基础知识/注解.md)
 
 元注解、自定义注解、Java 中常用注解使用、注解与反射的结合
 
 Spring 常用注解
 
-#### [1.2.12.JMS](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/JMS.html>)
+#### [1.2.12.JMS](基础篇/基础知识/JMS.md)
 
 什么是 Java 消息服务、JMS 消息传送模型
 
-#### [1.2.13.JMX](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/JMX.html>)
+#### [1.2.13.JMX](基础篇/基础知识/JMX.md)
 
 java.lang.management.*、 javax.management.*
 
-#### [1.2.14.泛型](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E6%B3%9B%E5%9E%8B.html>)
+#### [1.2.14.泛型](基础篇/基础知识/泛型.md)
 
 泛型与继承、类型擦除、泛型中 KTVE? object 等的含义、泛型各种用法
 
@@ -154,25 +154,25 @@ List<Object> 和原始类型 List 之间的区别?
 
 List<?> 和 List<Object> 之间的区别是什么?
 
-#### [1.2.15.单元测试](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.html>)
+#### [1.2.15.单元测试](基础篇/基础知识/单元测试.md)
 
 junit、mock、mockito、内存数据库（h2）
 
-#### [1.2.16.正则表达式](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.html>)
+#### [1.2.16.正则表达式](基础篇/基础知识/正则表达式.md)
 
 java.lang.util.regex.*
 
-#### [1.2.17.常用的 Java 工具库](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%B8%B8%E7%94%A8%E7%9A%84Java%E5%B7%A5%E5%85%B7%E5%BA%93.html>)
+#### [1.2.17.常用的 Java 工具库](基础篇/基础知识/常用的Java工具库.md)
 
 commons.lang、commons.*...、 guava-libraries、 netty
 
-#### [1.2.18.API & SPI](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/API&SPI.html>)
+#### [1.2.18.API & SPI](基础篇/基础知识/API&SPI.md)
 
 API、API 和 SPI 的关系和区别
 
 如何定义 SPI、SPI 的实现原理
 
-#### [1.2.19.异常](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%BC%82%E5%B8%B8.html>)
+#### [1.2.19.异常](基础篇/基础知识/异常.md)
 
 异常类型、正确处理异常、自定义异常
 
@@ -182,7 +182,7 @@ Error 和 Exception
 
 finally 和 return 的执行顺序
 
-#### [1.2.20.时间处理](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E6%97%B6%E9%97%B4%E5%A4%84%E7%90%86.html>)
+#### [1.2.20.时间处理](基础篇/基础知识/时间处理.md)
 
 时区、冬令时和夏令时、时间戳、Java 中时间 API
 
@@ -194,7 +194,7 @@ Java 8 中的时间处理
 
 如何在东八区的计算机上获取美国时间
 
-#### [1.2.21.编码方式](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%BC%96%E7%A0%81%E6%96%B9%E5%BC%8F.html>)
+#### [1.2.21.编码方式](基础篇/基础知识/编码方式.md)
 
 Unicode、有了 Unicode 为啥还需要 UTF-8
 
@@ -206,13 +206,13 @@ URL 编解码、Big Endian 和 Little Endian
 
 如何解决乱码问题
 
-#### [1.2.22.语法糖](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E8%AF%AD%E6%B3%95%E7%B3%96.html>)
+#### [1.2.22.语法糖](基础篇/基础知识/语法糖.md)
 
 Java 中语法糖原理、解语法糖
 
 语法糖：switch 支持 String 与枚举、泛型、自动装箱与拆箱、方法变长参数、枚举、内部类、条件编译、 断言、数值字面量、for-each、try-with-resource、Lambda 表达式
 
-### [1.3.阅读源代码](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/%E9%98%85%E8%AF%BB%E6%BA%90%E4%BB%A3%E7%A0%81/>)
+### [1.3.阅读源代码](基础篇/阅读源代码/README.md)
 
 String、Integer、Long、Enum、
 
@@ -222,7 +222,7 @@ ArrayList & LinkedList、
 
 HashMap & LinkedHashMap & TreeMap & CouncurrentHashMap、HashSet & LinkedHashSet & TreeSet
 
-### [1.4.Java并发编程](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/>)
+### [1.4.Java并发编程](基础篇/Java并发编程/README.md)
 
 #### 1.4.1.并发与并行
 
