@@ -1,6 +1,6 @@
 # Summary
 
-* [前言](README.md)
+* [首页](README.md)
 * [基础篇](基础篇/README.md)
     * [面向对象](基础篇/面向对象/README.md)
         * [什么是面向对象](基础篇/面向对象/什么是面向对象.md)
