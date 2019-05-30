@@ -1,7 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="" />
+    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/.idea/workspace.xml" afterPath="$PROJECT_DIR$/_book/docs/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/gitalk-config.js" afterPath="$PROJECT_DIR$/_book/docs/gitalk-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/index.html" afterPath="$PROJECT_DIR$/_book/docs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/search_plus_index.json" afterPath="$PROJECT_DIR$/_book/docs/search_plus_index.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/index.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/API&amp;SPI.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/API&amp;SPI.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/IO.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/IO.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/JMS.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/JMS.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/JMX.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/JMX.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/String.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/String.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/index.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/动态代理.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/动态代理.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/单元测试.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/单元测试.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/反射.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/反射.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/基本数据类型.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/基本数据类型.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/常用的Java工具库.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/常用的Java工具库.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/序列化.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/序列化.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/异常.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/异常.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/时间处理.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/时间处理.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/枚举.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/枚举.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/正则表达式.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/正则表达式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/泛型.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/泛型.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/注解.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/注解.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/熟悉Java中各种关键字.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/熟悉Java中各种关键字.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/编码方式.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/编码方式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/自动拆装箱.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/自动拆装箱.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/语法糖.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/语法糖.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/集合类.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/集合类.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/阅读源代码/index.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/阅读源代码/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/index.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/什么是面向对象.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/什么是面向对象.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/值传递.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/值传递.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/封装继承多态.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/封装继承多态.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/平台无关性.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/平台无关性.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/扩展篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/扩展篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/推荐书籍/index.html" afterPath="$PROJECT_DIR$/_book/docs/推荐书籍/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/架构篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/架构篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/进阶篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/进阶篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/高级篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/高级篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/gitalk-config.js" afterPath="$PROJECT_DIR$/_book/gitalk-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/index.html" afterPath="$PROJECT_DIR$/_book/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/search_plus_index.json" afterPath="$PROJECT_DIR$/_book/search_plus_index.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/index.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/index.html" afterPath="$PROJECT_DIR$/_book/基础篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/API&amp;SPI.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/API&amp;SPI.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/IO.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/IO.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/JMS.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/JMS.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/JMX.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/JMX.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/String.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/String.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/index.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/动态代理.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/动态代理.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/单元测试.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/单元测试.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/反射.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/反射.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/基本数据类型.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/基本数据类型.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/常用的Java工具库.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/常用的Java工具库.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/序列化.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/序列化.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/异常.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/异常.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/时间处理.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/时间处理.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/枚举.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/枚举.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/正则表达式.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/正则表达式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/泛型.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/泛型.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/注解.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/注解.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/熟悉Java中各种关键字.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/熟悉Java中各种关键字.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/编码方式.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/编码方式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/自动拆装箱.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/自动拆装箱.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/语法糖.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/语法糖.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/集合类.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/集合类.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/阅读源代码/index.html" afterPath="$PROJECT_DIR$/_book/基础篇/阅读源代码/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/面向对象/index.html" afterPath="$PROJECT_DIR$/_book/基础篇/面向对象/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/面向对象/什么是面向对象.html" afterPath="$PROJECT_DIR$/_book/基础篇/面向对象/什么是面向对象.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/面向对象/值传递.html" afterPath="$PROJECT_DIR$/_book/基础篇/面向对象/值传递.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/面向对象/封装继承多态.html" afterPath="$PROJECT_DIR$/_book/基础篇/面向对象/封装继承多态.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/面向对象/平台无关性.html" afterPath="$PROJECT_DIR$/_book/基础篇/面向对象/平台无关性.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/index.html" afterPath="$PROJECT_DIR$/_book/底层篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/扩展篇/index.html" afterPath="$PROJECT_DIR$/_book/扩展篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/推荐书籍/index.html" afterPath="$PROJECT_DIR$/_book/推荐书籍/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/架构篇/index.html" afterPath="$PROJECT_DIR$/_book/架构篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/进阶篇/index.html" afterPath="$PROJECT_DIR$/_book/进阶篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/高级篇/index.html" afterPath="$PROJECT_DIR$/_book/高级篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/.idea/workspace.xml" afterPath="$PROJECT_DIR$/docs/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/search_plus_index.json" afterPath="$PROJECT_DIR$/docs/search_plus_index.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/Java并发编程/index.html" afterPath="$PROJECT_DIR$/docs/基础篇/Java并发编程/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/index.html" afterPath="$PROJECT_DIR$/docs/基础篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/API&amp;SPI.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/API&amp;SPI.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/IO.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/IO.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/JMS.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/JMS.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/JMX.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/JMX.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/String.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/String.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/index.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/动态代理.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/动态代理.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/单元测试.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/单元测试.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/反射.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/反射.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/基本数据类型.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/基本数据类型.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/常用的Java工具库.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/常用的Java工具库.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/序列化.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/序列化.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/异常.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/异常.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/时间处理.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/时间处理.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/枚举.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/枚举.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/正则表达式.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/正则表达式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/泛型.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/泛型.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/注解.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/注解.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/熟悉Java中各种关键字.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/熟悉Java中各种关键字.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/编码方式.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/编码方式.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/自动拆装箱.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/自动拆装箱.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/语法糖.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/语法糖.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/基础知识/集合类.html" afterPath="$PROJECT_DIR$/docs/基础篇/基础知识/集合类.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/阅读源代码/index.html" afterPath="$PROJECT_DIR$/docs/基础篇/阅读源代码/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/面向对象/index.html" afterPath="$PROJECT_DIR$/docs/基础篇/面向对象/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/面向对象/什么是面向对象.html" afterPath="$PROJECT_DIR$/docs/基础篇/面向对象/什么是面向对象.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/面向对象/值传递.html" afterPath="$PROJECT_DIR$/docs/基础篇/面向对象/值传递.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/面向对象/封装继承多态.html" afterPath="$PROJECT_DIR$/docs/基础篇/面向对象/封装继承多态.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/基础篇/面向对象/平台无关性.html" afterPath="$PROJECT_DIR$/docs/基础篇/面向对象/平台无关性.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/底层篇/index.html" afterPath="$PROJECT_DIR$/docs/底层篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/扩展篇/index.html" afterPath="$PROJECT_DIR$/docs/扩展篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/推荐书籍/index.html" afterPath="$PROJECT_DIR$/docs/推荐书籍/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/架构篇/index.html" afterPath="$PROJECT_DIR$/docs/架构篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/进阶篇/index.html" afterPath="$PROJECT_DIR$/docs/进阶篇/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/高级篇/index.html" afterPath="$PROJECT_DIR$/docs/高级篇/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -51,6 +174,11 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>本书使用 GitBook 发布</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -190,7 +318,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558336723143</updated>
       <workItem from="1558336724352" duration="642000" />
-      <workItem from="1558768612098" duration="7146000" />
+      <workItem from="1558768612098" duration="8091000" />
     </task>
     <task id="LOCAL-00001" summary="初始提交">
       <created>1558337038590</created>
@@ -388,20 +516,28 @@
       <option name="project" value="LOCAL" />
       <updated>1559185296970</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="修改readme添加目录">
+      <created>1559186281767</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1559186281767</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7788000" />
+    <option name="totallyTimeSpent" value="8733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -412,7 +548,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>

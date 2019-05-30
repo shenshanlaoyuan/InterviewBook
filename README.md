@@ -1,11 +1,5 @@
 # Java面试宝典
 
-
-
-## 作者公众号，欢迎关注！
-
-![深山老猿](https://i.loli.net/2019/05/30/5cef4a8a7e47359954.jpg)
-
 ## 目录
 
 ## [1.基础篇](<http://shenshanlaoyuan.com/InterviewBook/%E5%9F%BA%E7%A1%80%E7%AF%87/>)
