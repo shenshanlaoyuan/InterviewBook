@@ -224,41 +224,41 @@ HashMap & LinkedHashMap & TreeMap & CouncurrentHashMap、HashSet & LinkedHashSet
 
 ### [1.4.Java并发编程](基础篇/Java并发编程/README.md)
 
-#### 1.4.1.并发与并行
+#### [1.4.1.并发与并行](基础篇/Java并发编程/并发与并行.md)
 
 什么是并发、什么是并行
 
 并发与并行的区别
 
-#### 1.4.2.什么是线程，与进程的区别
+#### [1.4.2.什么是线程，与进程的区别](基础篇/Java并发编程/什么是线程，与进程的区别.md)
 
 线程的实现、线程的状态、优先级、线程调度、创建线程的多种方式、守护线程
 
 线程与进程的区别
 
-#### 1.4.3.线程池
+#### [1.4.3.线程池](基础篇/Java并发编程/线程池.md)
 
 自己设计线程池、submit() 和 execute()、线程池原理
 
 为什么不允许使用 Executors 创建线程池
 
-#### 1.4.4.线程安全
+#### [1.4.4.线程安全](基础篇/Java并发编程/线程安全.md)
 
 死锁、死锁如何排查、线程安全和内存模型的关系
 
-#### 1.4.5.锁
+#### [1.4.5.锁](基础篇/Java并发编程/锁.md)
 
 CAS、乐观锁与悲观锁、数据库相关锁机制、分布式锁、偏向锁、轻量级锁、重量级锁、monitor、
 
 锁优化、锁消除、锁粗化、自旋锁、可重入锁、阻塞锁、死锁
 
-#### 1.4.6.死锁
+#### [1.4.6.死锁](基础篇/Java并发编程/死锁.md)
 
 什么是死锁
 
 死锁如何解决
 
-#### 1.4.7.synchronized
+#### [1.4.7.synchronized](基础篇/Java并发编程/synchronized.md)
 
 synchronized 是如何实现的？
 
@@ -266,7 +266,7 @@ synchronized 和 lock 之间关系、不使用 synchronized 如何实现一个�
 
 synchronized 和原子性、可见性和有序性之间的关系
 
-#### 1.4.8.volatile
+#### [1.4.8.volatile](基础篇/Java并发编程/volatile.md)
 
 happens-before、内存屏障、编译器指令重排和 CPU 指令重
 
@@ -276,19 +276,19 @@ volatile 和原子性、可见性和有序性之间的关系
 
 有了 symchronized 为什么还需要 volatile
 
-#### 1.4.9.sleep 和 wait
+#### [1.4.9.sleep 和 wait](基础篇/Java并发编程/sleep和wait.md)
 
-#### 1.4.10.wait 和 notify
+#### [1.4.10.wait 和 notify](基础篇/Java并发编程/wait和notify.md)
 
-#### 1.4.11.notify 和 notifyAll
+#### [1.4.11.notify 和 notifyAll](基础篇/Java并发编程/notify和notifyAll.md)
 
-#### 1.4.12.ThreadLocal
+#### [1.4.12.ThreadLocal](基础篇/Java并发编程/ThreadLocal.md)
 
-#### 1.4.13.写一个死锁的程序
+#### [1.4.13.写一个死锁的程序](基础篇/Java并发编程/写一个死锁的程序.md)
 
-#### 1.4.14.写代码来解决生产者消费者问题
+#### [1.4.14.写代码来解决生产者消费者问题](基础篇/Java并发编程/写代码来解决生产者消费者问题.md)
 
-#### 1.4.15.并方包
+#### [1.4.15.并方包](基础篇/Java并发编程/并方包.md)
 
 Thread、Runnable、Callable、ReentrantLock、ReentrantReadWriteLock、Atomic*、Semaphore、CountDownLatch、ConcurrentHashMap、Executors
 
