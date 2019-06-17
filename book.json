@@ -18,9 +18,12 @@
         "toggle-chapters",
         "-lunr", "-search", "search-plus",
         "baidu","simple-page-toc",
-        "-highlight",
+        "highlight",
         "emphasize","expandable-chapters-small",
-      "donate"
+      "donate",
+      "ancre-navigation",
+      "copy-code-button",
+      "advanced-emoji"
 
     ],
 
