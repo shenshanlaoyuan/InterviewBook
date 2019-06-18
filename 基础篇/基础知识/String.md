@@ -2,49 +2,49 @@
 
 ## 字符串的不可变性
 
-Here are a set of diagrams to illustrate Java String's *immutability*.
+这里有一组图片来说明Java字符串的不可变性。
 
-**1. Declare a string**
+**1. 声明一个字符串**
 
-The following code initializes a string *s*.
+以下代码初始化了一个字符串s.
 
 ```java
 String s = "abcd";
 ```
 
-The variable *s* stores the reference of a string object as shown below. The arrow can be interpreted as "store reference of".
+如下所示，变量s储存了一个字符串对象的引用。箭头可以被当做“储存引用”。
 
 ![String-Immutability-1.jpeg](https://i.loli.net/2019/06/17/5d074e22beae448963.jpeg)
 
-**2. Assign one string variable to another string variable**
+**2. 将一个字符串变量分配给另一个字符串变量**
 
-The following code assign *s* to *s2*.
+下面代码将s分配给了s2.
 
 ```java
 String s2 = s;
 ```
 
-*s2* stores the same reference value since it is the same string object.
+s2储存了一个相同的引用值，因为它是同一个字符串对象。
 
 ![String-Immutability-2.jpeg](https://i.loli.net/2019/06/17/5d074f4b1c45192435.jpeg)
 
-**3. Concat string**
+**3.合并字符串**
 
-When we concatenate a string "ef" to *s*,
+当我们合并一个字符串”ef”到s，
 
 ```java
 s = s.concat("ef");
 ```
 
-s stores the reference of the newly created string object as shown below.
+如下所示，s存储新创建的字符串对象的引用：
 
 ![string-immutability-650x279.jpeg](https://i.loli.net/2019/06/17/5d074f4b1a52e14825.jpeg)
 
-**Summary**
+**总结**
 
-In summary, once a string is created in [memory](https://www.programcreek.com/2013/04/jvm-run-time-data-areas/)(heap), it can not be changed. All methods of String do not change the string itself, but rather return a new String.
+综上所述： 一旦在内存（堆）中创建了一个字符串，它就不能被改变。所有字符串的方法都没有去改变字符串自己，而是返回了一个新对象。
 
-If we need a string that can be modified, we will need *StringBuffer* or *StringBuilder*. Otherwise, there would be a lot of time wasted for Garbage Collection, since each time a new String is created.
+如果我们需要一个可以修改的字符串，我们将需要使用**StringBuffer** 或 **StringBuilder**. 否则，垃圾收集会浪费大量时间，因为每次创建一个新的字符串。
 
 ## 参考文章
 
