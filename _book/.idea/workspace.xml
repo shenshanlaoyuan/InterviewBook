@@ -184,14 +184,7 @@
       <option name="presentableId" value="Default" />
       <updated>1558336723143</updated>
       <workItem from="1558336724352" duration="642000" />
-      <workItem from="1558768612098" duration="14606000" />
-    </task>
-    <task id="LOCAL-00002" summary="安装插件">
-      <created>1558768650622</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1558768650622</updated>
+      <workItem from="1558768612098" duration="14897000" />
     </task>
     <task id="LOCAL-00003" summary="添加doc目录">
       <created>1558771123860</created>
@@ -529,11 +522,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560997481654</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="gitalk评论系统">
+      <created>1561012175092</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1561012175092</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15248000" />
+    <option name="totallyTimeSpent" value="15539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
