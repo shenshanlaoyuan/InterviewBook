@@ -13,14 +13,14 @@
     "plugins": [
         
         "github",
-        "tbfed-pagefooter",
+        "donate",
         "splitter",
         "toggle-chapters",
         "-lunr", "-search", "search-plus",
         "baidu","simple-page-toc",
         "highlight",
         "emphasize","expandable-chapters-small",
-      "donate",
+      "tbfed-pagefooter",
       "ancre-navigation",
       "code",
       "advanced-emoji"
@@ -32,11 +32,15 @@
        "github": {
         	"url": "https://github.com/shenshanlaoyuan/InterviewBook"
     	},
-    	"tbfed-pagefooter": {
-            "copyright":"Copyright &copy 深山老猿 ",
-            "modify_label": " 文件最后修改时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
+       "donate": {
+          "wechat": "https://i.loli.net/2018/12/14/5c13d3658736f.jpeg",
+          "alipay": "https://i.loli.net/2018/12/15/5c13d9a7e9a14.jpeg",
+          "title": "",
+          "button": "打赏",
+          "alipayText": "支付宝打赏",
+          "wechatText": "微信打赏"
+        }
+    	,
         "sharing": {
             "weibo": true,
             "facebook": false,
@@ -52,14 +56,12 @@
         "baidu": {
         "token": "49a4c174aa8d0ae9013634317dab9a4d"
         },
-        "donate": {
-          "wechat": "https://i.loli.net/2018/12/14/5c13d3658736f.jpeg",
-          "alipay": "https://i.loli.net/2018/12/15/5c13d9a7e9a14.jpeg",
-          "title": "",
-          "button": "赏",
-          "alipayText": "支付宝打赏",
-          "wechatText": "微信打赏"
-        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy 深山老猿 ",
+            "modify_label": " 文件最后修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+       ,
         "simple-page-toc": {
           "maxDepth": 3,
           "skipFirstH1": true

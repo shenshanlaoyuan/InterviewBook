@@ -17,7 +17,7 @@
     
             
                 
-                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-tbfed-pagefooter/footer.css">
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-donate/plugin.css">
                 
             
                 
@@ -45,7 +45,7 @@
                 
             
                 
-                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-donate/plugin.css">
+                <link rel="stylesheet" href="../../gitbook/gitbook-plugin-tbfed-pagefooter/footer.css">
                 
             
                 
@@ -1116,6 +1116,16 @@
 <footer class="page-footer"><span class="copyright">Copyright &#xA9; &#x6DF1;&#x5C71;&#x8001;&#x733F;  all right reserved&#xFF0C;powered by Gitbook</span><span class="footer-modification"> &#x6587;&#x4EF6;&#x6700;&#x540E;&#x4FEE;&#x6539;&#x65F6;&#x95F4;&#xFF1A;
 2019-06-12 16:49:45
 </span></footer>
+
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+<script src="http://shenshanlaoyuan.com/InterviewBook/md5.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script src="http://shenshanlaoyuan.com/InterviewBook/gitalk-config.js"></script>
                                 
                                 </section>
                             
@@ -1142,7 +1152,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"wait和notify","level":"1.2.4.10","depth":3,"next":{"title":"notify和notifyAll","level":"1.2.4.11","depth":3,"path":"基础篇/Java并发编程/notify和notifyAll.md","ref":"基础篇/Java并发编程/notify和notifyAll.md","articles":[]},"previous":{"title":"sleep和wait","level":"1.2.4.9","depth":3,"path":"基础篇/Java并发编程/sleep和wait.md","ref":"基础篇/Java并发编程/sleep和wait.md","articles":[]},"dir":"ltr"},"config":{"plugins":["github","tbfed-pagefooter","splitter","toggle-chapters","-lunr","-search","search-plus","baidu","simple-page-toc","highlight","emphasize","expandable-chapters-small","donate","ancre-navigation","code","advanced-emoji"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"tbfed-pagefooter":{"copyright":"Copyright &copy 深山老猿 ","modify_label":" 文件最后修改时间：","modify_format":"YYYY-MM-DD HH:mm:ss"},"emphasize":{},"github":{"url":"https://github.com/shenshanlaoyuan/InterviewBook"},"simple-page-toc":{"maxDepth":3,"skipFirstH1":true},"splitter":{},"code":{"copyButtons":true},"donate":{"alipay":"https://i.loli.net/2018/12/15/5c13d9a7e9a14.jpeg","alipayText":"支付宝打赏","button":"赏","title":"","wechat":"https://i.loli.net/2018/12/14/5c13d3658736f.jpeg","wechatText":"微信打赏"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ancre-navigation":{"associatedWithSummary":true,"float":{"level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"mode":"float","multipleH1":true,"pageTop":{"level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"printLog":false,"showLevel":true},"expandable-chapters-small":{},"baidu":{"token":"49a4c174aa8d0ae9013634317dab9a4d"},"advanced-emoji":{"embedEmojis":false},"sharing":{"facebook":false,"twitter":false,"google":false,"weibo":true,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"search-plus":{}},"theme":"default","author":"深山老猿","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Java面试宝典","language":"zh-hans","links":{"sidebar":{"MyBlog":"http://shenshanlaoyuan.com"}},"gitbook":"*","description":""},"file":{"path":"基础篇/Java并发编程/wait和notify.md","mtime":"2019-06-12T08:49:45.070Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-06-18T06:25:49.448Z"},"basePath":"../..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"wait和notify","level":"1.2.4.10","depth":3,"next":{"title":"notify和notifyAll","level":"1.2.4.11","depth":3,"path":"基础篇/Java并发编程/notify和notifyAll.md","ref":"基础篇/Java并发编程/notify和notifyAll.md","articles":[]},"previous":{"title":"sleep和wait","level":"1.2.4.9","depth":3,"path":"基础篇/Java并发编程/sleep和wait.md","ref":"基础篇/Java并发编程/sleep和wait.md","articles":[]},"dir":"ltr"},"config":{"plugins":["github","donate","splitter","toggle-chapters","-lunr","-search","search-plus","baidu","simple-page-toc","highlight","emphasize","expandable-chapters-small","tbfed-pagefooter","ancre-navigation","code","advanced-emoji"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"tbfed-pagefooter":{"copyright":"Copyright &copy 深山老猿 ","modify_label":" 文件最后修改时间：","modify_format":"YYYY-MM-DD HH:mm:ss"},"emphasize":{},"github":{"url":"https://github.com/shenshanlaoyuan/InterviewBook"},"simple-page-toc":{"maxDepth":3,"skipFirstH1":true},"splitter":{},"code":{"copyButtons":true},"donate":{"alipay":"https://i.loli.net/2018/12/15/5c13d9a7e9a14.jpeg","alipayText":"支付宝打赏","button":"打赏","title":"","wechat":"https://i.loli.net/2018/12/14/5c13d3658736f.jpeg","wechatText":"微信打赏"},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ancre-navigation":{"associatedWithSummary":true,"float":{"level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"mode":"float","multipleH1":true,"pageTop":{"level1Icon":"","level2Icon":"","level3Icon":"","showLevelIcon":false},"printLog":false,"showLevel":true},"expandable-chapters-small":{},"baidu":{"token":"49a4c174aa8d0ae9013634317dab9a4d"},"advanced-emoji":{"embedEmojis":false},"sharing":{"facebook":false,"twitter":false,"google":false,"weibo":true,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"toggle-chapters":{},"search-plus":{}},"theme":"default","author":"深山老猿","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Java面试宝典","language":"zh-hans","links":{"sidebar":{"MyBlog":"http://shenshanlaoyuan.com"}},"gitbook":"*","description":""},"file":{"path":"基础篇/Java并发编程/wait和notify.md","mtime":"2019-06-12T08:49:45.070Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-06-20T03:17:44.145Z"},"basePath":"../..","book":{"language":""}});
         });
     </script>
 </div>
@@ -1153,6 +1163,10 @@
     
         
         <script src="../../gitbook/gitbook-plugin-github/plugin.js"></script>
+        
+    
+        
+        <script src="../../gitbook/gitbook-plugin-donate/plugin.js"></script>
         
     
         
@@ -1177,10 +1191,6 @@
     
         
         <script src="../../gitbook/gitbook-plugin-expandable-chapters-small/expandable-chapters-small.js"></script>
-        
-    
-        
-        <script src="../../gitbook/gitbook-plugin-donate/plugin.js"></script>
         
     
         
