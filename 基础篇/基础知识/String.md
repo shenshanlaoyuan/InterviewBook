@@ -142,10 +142,3 @@ public String substring(int beginIndex, int endIndex) {
 
 
 
-
-## 参考文章
-
-[Diagram to show Java String’s Immutability](https://www.programcreek.com/2009/02/diagram-to-show-java-strings-immutability/)
-
-[三张图彻底了解JDK 6和JDK 7中substring的原理及区别](https://www.hollischuang.com/archives/1232)
-

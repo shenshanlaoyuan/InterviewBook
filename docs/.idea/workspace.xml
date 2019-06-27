@@ -1,150 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/.idea/workspace.xml" afterPath="$PROJECT_DIR$/_book/docs/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/gitbook/gitbook-plugin-donate/plugin.js" afterPath="$PROJECT_DIR$/_book/docs/gitbook/gitbook-plugin-donate/plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/index.html" afterPath="$PROJECT_DIR$/_book/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/ThreadLocal.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/ThreadLocal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/index.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/notify和notifyAll.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/notify和notifyAll.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/sleep和wait.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/sleep和wait.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/synchronized.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/synchronized.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/volatile.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/volatile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/wait和notify.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/wait和notify.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/什么是线程，与进程的区别.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/什么是线程，与进程的区别.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/写一个死锁的程序.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/写一个死锁的程序.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/写代码来解决生产者消费者问题.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/写代码来解决生产者消费者问题.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/并发与并行.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/并发与并行.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/并方包.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/并方包.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/死锁.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/死锁.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/线程安全.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/线程安全.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/线程池.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/线程池.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/锁.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/Java并发编程/锁.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/API&amp;SPI.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/API&amp;SPI.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/IO.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/IO.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/JMS.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/JMS.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/JMX.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/JMX.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/String.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/String.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/index.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/动态代理.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/动态代理.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/单元测试.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/单元测试.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/反射.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/反射.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/基本数据类型.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/基本数据类型.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/常用的Java工具库.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/常用的Java工具库.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/序列化.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/序列化.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/异常.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/异常.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/时间处理.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/时间处理.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/枚举.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/枚举.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/正则表达式.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/正则表达式.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/泛型.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/泛型.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/注解.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/注解.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/熟悉Java中各种关键字.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/熟悉Java中各种关键字.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/编码方式.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/编码方式.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/自动拆装箱.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/自动拆装箱.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/语法糖.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/语法糖.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/集合类.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/基础知识/集合类.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/阅读源代码/index.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/阅读源代码/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/index.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/什么是面向对象.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/什么是面向对象.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/值传递.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/值传递.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/封装继承多态.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/封装继承多态.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/平台无关性.html" afterPath="$PROJECT_DIR$/_book/docs/基础篇/面向对象/平台无关性.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/JVM/HotSpot.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/JVM/HotSpot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/JVM/JVM内存结构.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/JVM/JVM内存结构.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/JVM/JVM参数及调优.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/JVM/JVM参数及调优.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/JVM/Java内存模型.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/JVM/Java内存模型.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/JVM/Java对象模型.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/JVM/Java对象模型.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/JVM/index.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/JVM/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/JVM/垃圾回收.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/JVM/垃圾回收.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/JVM/虚拟机性能监控与故障处理工具.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/JVM/虚拟机性能监控与故障处理工具.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/类加载机制/index.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/类加载机制/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/底层篇/编译与反编译/index.html" afterPath="$PROJECT_DIR$/_book/docs/底层篇/编译与反编译/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/扩展篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/扩展篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/推荐书籍/index.html" afterPath="$PROJECT_DIR$/_book/docs/推荐书籍/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/架构篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/架构篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/进阶篇/Java底层知识/index.html" afterPath="$PROJECT_DIR$/_book/docs/进阶篇/Java底层知识/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/进阶篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/进阶篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/进阶篇/工具/index.html" afterPath="$PROJECT_DIR$/_book/docs/进阶篇/工具/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/进阶篇/应用服务器知识/index.html" afterPath="$PROJECT_DIR$/_book/docs/进阶篇/应用服务器知识/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/进阶篇/框架知识/index.html" afterPath="$PROJECT_DIR$/_book/docs/进阶篇/框架知识/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/进阶篇/网络编程知识/index.html" afterPath="$PROJECT_DIR$/_book/docs/进阶篇/网络编程知识/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/进阶篇/设计模式/index.html" afterPath="$PROJECT_DIR$/_book/docs/进阶篇/设计模式/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/docs/高级篇/index.html" afterPath="$PROJECT_DIR$/_book/docs/高级篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-donate/plugin.css" afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-donate/plugin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/index.html" afterPath="$PROJECT_DIR$/_book/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/ThreadLocal.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/ThreadLocal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/index.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/notify和notifyAll.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/notify和notifyAll.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/sleep和wait.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/sleep和wait.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/synchronized.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/synchronized.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/volatile.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/volatile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/wait和notify.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/wait和notify.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/什么是线程，与进程的区别.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/什么是线程，与进程的区别.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/写一个死锁的程序.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/写一个死锁的程序.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/写代码来解决生产者消费者问题.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/写代码来解决生产者消费者问题.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/并发与并行.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/并发与并行.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/并方包.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/并方包.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/死锁.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/死锁.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/线程安全.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/线程安全.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/线程池.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/线程池.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/Java并发编程/锁.html" afterPath="$PROJECT_DIR$/_book/基础篇/Java并发编程/锁.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/index.html" afterPath="$PROJECT_DIR$/_book/基础篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/API&amp;SPI.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/API&amp;SPI.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/IO.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/IO.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/JMS.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/JMS.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/JMX.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/JMX.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/String.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/String.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/index.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/动态代理.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/动态代理.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/单元测试.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/单元测试.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/反射.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/反射.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/基本数据类型.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/基本数据类型.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/常用的Java工具库.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/常用的Java工具库.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/序列化.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/序列化.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/异常.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/异常.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/时间处理.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/时间处理.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/枚举.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/枚举.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/正则表达式.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/正则表达式.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/泛型.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/泛型.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/注解.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/注解.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/熟悉Java中各种关键字.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/熟悉Java中各种关键字.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/编码方式.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/编码方式.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/自动拆装箱.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/自动拆装箱.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/语法糖.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/语法糖.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/基础知识/集合类.html" afterPath="$PROJECT_DIR$/_book/基础篇/基础知识/集合类.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/阅读源代码/index.html" afterPath="$PROJECT_DIR$/_book/基础篇/阅读源代码/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/面向对象/index.html" afterPath="$PROJECT_DIR$/_book/基础篇/面向对象/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/面向对象/什么是面向对象.html" afterPath="$PROJECT_DIR$/_book/基础篇/面向对象/什么是面向对象.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/面向对象/值传递.html" afterPath="$PROJECT_DIR$/_book/基础篇/面向对象/值传递.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/面向对象/封装继承多态.html" afterPath="$PROJECT_DIR$/_book/基础篇/面向对象/封装继承多态.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/基础篇/面向对象/平台无关性.html" afterPath="$PROJECT_DIR$/_book/基础篇/面向对象/平台无关性.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/JVM/HotSpot.html" afterPath="$PROJECT_DIR$/_book/底层篇/JVM/HotSpot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/JVM/JVM内存结构.html" afterPath="$PROJECT_DIR$/_book/底层篇/JVM/JVM内存结构.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/JVM/JVM参数及调优.html" afterPath="$PROJECT_DIR$/_book/底层篇/JVM/JVM参数及调优.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/JVM/Java内存模型.html" afterPath="$PROJECT_DIR$/_book/底层篇/JVM/Java内存模型.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/JVM/Java对象模型.html" afterPath="$PROJECT_DIR$/_book/底层篇/JVM/Java对象模型.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/JVM/index.html" afterPath="$PROJECT_DIR$/_book/底层篇/JVM/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/JVM/垃圾回收.html" afterPath="$PROJECT_DIR$/_book/底层篇/JVM/垃圾回收.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/JVM/虚拟机性能监控与故障处理工具.html" afterPath="$PROJECT_DIR$/_book/底层篇/JVM/虚拟机性能监控与故障处理工具.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/index.html" afterPath="$PROJECT_DIR$/_book/底层篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/类加载机制/index.html" afterPath="$PROJECT_DIR$/_book/底层篇/类加载机制/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/底层篇/编译与反编译/index.html" afterPath="$PROJECT_DIR$/_book/底层篇/编译与反编译/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/扩展篇/index.html" afterPath="$PROJECT_DIR$/_book/扩展篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/推荐书籍/index.html" afterPath="$PROJECT_DIR$/_book/推荐书籍/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/架构篇/index.html" afterPath="$PROJECT_DIR$/_book/架构篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/进阶篇/Java底层知识/index.html" afterPath="$PROJECT_DIR$/_book/进阶篇/Java底层知识/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/进阶篇/index.html" afterPath="$PROJECT_DIR$/_book/进阶篇/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/进阶篇/工具/index.html" afterPath="$PROJECT_DIR$/_book/进阶篇/工具/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/进阶篇/应用服务器知识/index.html" afterPath="$PROJECT_DIR$/_book/进阶篇/应用服务器知识/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/进阶篇/框架知识/index.html" afterPath="$PROJECT_DIR$/_book/进阶篇/框架知识/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/进阶篇/网络编程知识/index.html" afterPath="$PROJECT_DIR$/_book/进阶篇/网络编程知识/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/进阶篇/设计模式/index.html" afterPath="$PROJECT_DIR$/_book/进阶篇/设计模式/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_book/高级篇/index.html" afterPath="$PROJECT_DIR$/_book/高级篇/index.html" />
-    </list>
+    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -328,14 +185,7 @@
       <updated>1558336723143</updated>
       <workItem from="1558336724352" duration="642000" />
       <workItem from="1558768612098" duration="15379000" />
-      <workItem from="1561020055568" duration="119000" />
-    </task>
-    <task id="LOCAL-00004" summary="修改插件">
-      <created>1558772155576</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1558772155576</updated>
+      <workItem from="1561020055568" duration="406000" />
     </task>
     <task id="LOCAL-00005" summary="修改评论插件">
       <created>1558774298182</created>
@@ -673,11 +523,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561012931667</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="修改首页目录过长">
+      <created>1561429029816</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1561429029816</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16140000" />
+    <option name="totallyTimeSpent" value="16427000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -726,7 +583,8 @@
     <MESSAGE value="新增插件" />
     <MESSAGE value="字符串的不可变性" />
     <MESSAGE value="gitalk评论系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitalk评论系统" />
+    <MESSAGE value="修改首页目录过长" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改首页目录过长" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
