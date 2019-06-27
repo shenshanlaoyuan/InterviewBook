@@ -185,14 +185,7 @@
       <updated>1558336723143</updated>
       <workItem from="1558336724352" duration="642000" />
       <workItem from="1558768612098" duration="15379000" />
-      <workItem from="1561020055568" duration="465000" />
-    </task>
-    <task id="LOCAL-00006" summary="修改评论插件">
-      <created>1558774792398</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1558774792398</updated>
+      <workItem from="1561020055568" duration="786000" />
     </task>
     <task id="LOCAL-00007" summary="修改评论插件">
       <created>1558774853373</created>
@@ -530,11 +523,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561619304810</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="修改首页目录过长">
+      <created>1561621611796</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1561621611796</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16486000" />
+    <option name="totallyTimeSpent" value="16807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
