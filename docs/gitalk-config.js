@@ -9,7 +9,7 @@ var gitalk = new Gitalk({
     "repo": "InterviewBook",
     "owner": "shenshanlaoyuan",
     "admin": ["shenshanlaoyuan"],
-    "id": md5(location.href),
+    "id": md5(window.location.pathname),
     "distractionFreeMode": false
 });
 gitalk.render("gitalk-container");
