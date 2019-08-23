@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="修改GitHub登录问题">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-tbfed-pagefooter/index.js" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-tbfed-pagefooter/index.js" />
-    </list>
+    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -188,14 +186,7 @@
       <workItem from="1558336724352" duration="642000" />
       <workItem from="1558768612098" duration="15379000" />
       <workItem from="1561020055568" duration="1799000" />
-      <workItem from="1566528102786" duration="219000" />
-    </task>
-    <task id="LOCAL-00011" summary="修改评论插件">
-      <created>1558777097173</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1558777097173</updated>
+      <workItem from="1566528102786" duration="447000" />
     </task>
     <task id="LOCAL-00012" summary="修改评论插件">
       <created>1558777159392</created>
@@ -533,11 +524,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566528164353</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="修改GitHub登录问题">
+      <created>1566528609503</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1566528609503</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18039000" />
+    <option name="totallyTimeSpent" value="18267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
