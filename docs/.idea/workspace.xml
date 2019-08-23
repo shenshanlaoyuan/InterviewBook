@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="" />
+    <list default="true" id="b8631e93-4cd2-4f71-9756-89da3803d773" name="Default" comment="修改GitHub登录问题">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/gitbook-plugin-tbfed-pagefooter/index.js" afterPath="$PROJECT_DIR$/node_modules/gitbook-plugin-tbfed-pagefooter/index.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -186,13 +188,7 @@
       <workItem from="1558336724352" duration="642000" />
       <workItem from="1558768612098" duration="15379000" />
       <workItem from="1561020055568" duration="1799000" />
-    </task>
-    <task id="LOCAL-00010" summary="修改评论插件">
-      <created>1558776701834</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1558776701834</updated>
+      <workItem from="1566528102786" duration="219000" />
     </task>
     <task id="LOCAL-00011" summary="修改评论插件">
       <created>1558777097173</created>
@@ -530,11 +526,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562134850762</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="修改GitHub登录问题">
+      <created>1566528164352</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1566528164353</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17820000" />
+    <option name="totallyTimeSpent" value="18039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -603,13 +606,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gitalk-config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#51#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
